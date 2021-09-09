@@ -10,7 +10,7 @@ allocates resources to case interventions based on their estimated net gain.
 # Dataset: 
 You need to download below dataset and modify the path in `dataset_confs.py` script. 
 
-* [BPIC2017, ie., a loan application process](https://drive.google.com/file/d/1w1MPzU7Rz-wTYcSkLqWyGZJOI_RlYGzS/view?usp=sharing)
+* [BPIC2017, ie., a loan application process.](https://drive.google.com/file/d/1w1MPzU7Rz-wTYcSkLqWyGZJOI_RlYGzS/view?usp=sharing)
 
 
 
