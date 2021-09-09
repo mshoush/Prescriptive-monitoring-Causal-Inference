@@ -15,9 +15,17 @@ You need to download below dataset and modify the path in `dataset_confs.py` scr
 
 
 # Reproduce results:
-To reproduce esults, please run the 
+To reproduce esults, please run the following:
 
-* run the .ipynb notebook
+* First use the following command to install required packages from a venv. 
+                                    
+                                     conda env create -f venv.yml
+
+* Next, please execute the following notebook to run the all experiments. 
+
+                                     run_experiments.ipynb
+                                     
+                                     
 
 
                  
